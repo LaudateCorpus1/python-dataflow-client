@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/googleapis/python-dataflow-client/compare/v0.3.1...v0.4.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#65](https://github.com/googleapis/python-dataflow-client/issues/65)) ([888664b](https://github.com/googleapis/python-dataflow-client/commit/888664b70baefe7acb7e46c82a06c24e7ba06af2))
+
 ### [0.3.1](https://www.github.com/googleapis/python-dataflow-client/compare/v0.3.0...v0.3.1) (2021-11-01)
 
 
